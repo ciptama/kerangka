@@ -1,21 +1,21 @@
 {
-    "name": "noumo/easyii",
+    "name": "ciptama/kerang",
     "version": "dev-master",
     "description": "Easy CMS based on Yii2 Framework - Development package",
-    "keywords": ["easyii"],
+    "keywords": ["kerangka"],
     "homepage": "http://easyiicms.com",
     "type": "yii2-extension",
     "license": "GNU GPL V3",
     "minimum-stability": "dev",
     "support": {
         "wiki": "http://easyiicms.com/docs",
-        "source": "https://github.com/noumo/easyii.git",
+        "source": "https://github.com/ciptama/kerangka.git",
         "issues": "https://github.com/noumo/easyii/issues"
     },
     "authors": [
         {
-            "name": "Ivan Vasilkov",
-            "email": "noumohope@gmail.com",
+            "name": "Muhammad Lulud K",
+            "email": "m.lulud.k@gmail.com",
             "role" : "Developer"
         }
     ],
